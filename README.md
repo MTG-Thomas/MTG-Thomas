@@ -1,16 +1,25 @@
-## Hi there 👋
+Hey, I’m Thomas 👋
 
-<!--
-**MTG-Thomas/MTG-Thomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Systems Engineer at a small MSP.
 
-Here are some ideas to get you started:
+Former Windows sysadmin. Current reluctant software, devops, and platform engineer. Still manage the Windows boxen! Somehow ended up managing a herd of coding agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I make complicated systems less complicated. Occasionally by building an entirely new complicated system.
+
+🛠️ What I actually do
+
+• Build automation and tooling for managed IT environments.
+• Convince software platforms to communicate with each other, whether they'd like to or not.
+• Fight developer tooling until it becomes useful.
+• Coordinate AI coding agents and occasionally write code myself.
+• Question whether something really needs Kubernetes. Deploy it anyway. Regret it later.
+
+🔬 Current rabbit holes
+
+• Bifrost — Making MSP automation considerably more ambitious.
+• Agentic engineering — Finding out whether a swarm of coding agents can build reliable software without becoming an organizational disaster.
+• Unreasonable infrastructure — Running things in places they weren’t necessarily intended to run.
+
+Outside the terminal
+
+"Former" ultrarunner. Always curious about what happens when you take an idea too far. Always curious in general.
