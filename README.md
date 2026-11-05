@@ -30,9 +30,9 @@ A little path into a private network for applications that aren't allowed to tou
 
 A scriptable, operator-friendly interface to HaloPSA. JSON-first, automation-ready, with guardrails for the moments when an innocent-looking command could make a spectacular mess.
 
-**[MANX](https://github.com/MTG-Thomas/manx) — Break glass. Boot Linux. Fix Windows.**
+**[MANX](https://github.com/MTG-Thomas/manx) — Break glass. Boot Linux. Parachute in an agent.**
 
-An offline Windows rescue toolkit for when the server won't boot and the usual management tools are no longer particularly helpful. One recovery engine, accessible through a CLI, interactive menu, or agent harness.
+A Windows rescue environment that gives humans and AI agents the same recovery tools. When a server goes down, boot into Linux, drop in an agent harness, and let it investigate the wreckage. Because reading 40,000 lines of Windows logs is exactly the sort of job computers should be doing.
 
 ### Outside the terminal
 
