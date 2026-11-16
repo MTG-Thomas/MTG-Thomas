@@ -2,7 +2,7 @@
 
 **Senior Systems Engineer at a small MSP.**
 
-Former Windows sysadmin. Current reluctant software, devops, and platform engineer. Still manage the Windows boxen! Somehow ended up managing a herd of coding agents.
+Former Windows sysadmin. Current reluctant software, devops, and platform engineer. Still manage the Windows boxen! Somehow ended up managing a herd of coding agents, loving it, and falling backwards into becoming a platform engineer.
 
 I make complicated systems less complicated. Occasionally by building an entirely new complicated system.
 
